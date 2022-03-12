@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 body{
-    background-color: antiquewhite;
+    background-color: green;
 }
 
 *{
@@ -124,7 +124,7 @@ border-radius: 34px;
 body {
   background-color: tan;
 }
-
+/*
 /* On screens that are 992px or less, set the background color to blue */
 @media screen and (max-width: 992px) {
   body {
@@ -138,3 +138,4 @@ body {
     background-color: olive;
   }
 }
+*/
